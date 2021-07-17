@@ -13,7 +13,7 @@
             self.live = "Jeddah, Saudi Arabia"
             self.role = "Web developer/Data scientist"
             self.learning = ['Node.js', 'flutter']
-            self.hobbies = ['Kick boxing', 'reading']
+            self.hobbies = ['Kickboxing', 'reading']
             
     
         def welcomeMessage(self):
