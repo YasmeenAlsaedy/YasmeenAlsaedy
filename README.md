@@ -12,7 +12,7 @@
             self.name = "Yasmeen Alsaedy"
             self.live = "Jeddah, Saudi Arabia"
             self.role = "Web developer/Data scientist"
-            self.learning = ['Node.js, 'flutter']
+            self.learning = ['Node.js', 'flutter']
             self.hobbies = ['Kick boxing', 'reading']
             
     
