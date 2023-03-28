@@ -14,9 +14,9 @@
         def __init__(self):
             self.name = "Yasmeen Alsaedy"
             self.live = "Jeddah, Saudi Arabia"
-            self.role = "Web developer/Data scientist"
-            self.interested = ['Computer vision', 'Data science', 'Web development']
-            self.learning = ['Node.js', 'flutter']
+            self.role = "Exploring 3D world"
+            self.interested = ['Computer Vision', 'Inverse Graphics', 'Differential rendering']
+            self.learning = ['3D Scene Representations']
             self.hobbies = ['Kickboxing', 'reading']
             
     
