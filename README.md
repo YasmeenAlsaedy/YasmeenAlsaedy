@@ -1,8 +1,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-[![visitor badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=yasmeenalsaedy.visitor-badge)]
+[![visitor badge](https://img.shields.io/badge/visitors-count-green?page=yasmeenalsaedy.visitor-badge)]
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/YasmeenAlsaedy/YasmeenAlsaedy/graphs/contributors)
 [![LinkedIn](https://img.shields.io/badge/linkedin-in-blue)](https://www.linkedin.com/in/YasmeenAlsaedy)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+
+
 ```python
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
