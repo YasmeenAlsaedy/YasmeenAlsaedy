@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYasmeenAlsaedy&label=visitors&countColor=%23f47373&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYasmeenAlsaedy&label=visitors&countColor=%23f47373&style=plastic)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/YasmeenAlsaedy/YasmeenAlsaedy/graphs/contributors)
 [![LinkedIn](https://img.shields.io/badge/linkedin-in-blue)](https://www.linkedin.com/in/YasmeenAlsaedy)
 
