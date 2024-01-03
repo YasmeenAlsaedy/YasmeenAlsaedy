@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yasmeenalsaedy.visitor-badge)](https://github.com/YasmeenAlsaedy/YasmeenAlsaedy/graphs/contributors)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/YasmeenAlsaedy/YasmeenAlsaedy/graphs/contributors)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YasmeenAlsaedy)
+[![Linkedin](https://img.shields.io/badge/linkedin-in-blue)](https://www.linkedin.com/in/YasmeenAlsaedy)
 
 ```python
     #!/usr/bin/python
